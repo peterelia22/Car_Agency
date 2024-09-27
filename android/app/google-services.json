@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265972813851",
+    "project_id": "caragency-608be",
+    "storage_bucket": "caragency-608be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265972813851:android:99ebd52c276e94d7a7a8be",
+        "android_client_info": {
+          "package_name": "com.example.car_age"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8lUC6Yqq-daKsSzw4AgBxAyyTrYMZdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
